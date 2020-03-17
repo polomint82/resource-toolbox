@@ -7,6 +7,7 @@
 - [Data Engineering](#data-engineering)
     - [Search Engine Tech](#search-engine-tech)
 - [Software Engineering](#software-engineering)
+- [User Interface](#user-interface)
 - [Test Automation](#test-automation)
 - [Workflow Engineering](#workflow-engineering)
 - [Blogs and Presentations]
@@ -28,6 +29,10 @@
 ## Software Engineering
 
 * [Test]() - Test
+
+## User Interface Templates
+
+* [Angular Fuse Template](http://angular-material.fusetheme.com/apps/dashboards/analytics) - Fuse
 
 ## Test Automation
 
