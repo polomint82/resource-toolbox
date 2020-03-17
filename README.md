@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [Data Engineering](#data-engineering)
-- [Software Engineering)
-    - [Blogs](#blogs)
+- [Software Engineering](#software-engineering)
+    - [Software Tools](#software-tools)
 - [Greiner)
     - [Blogs](#blogs)
 
