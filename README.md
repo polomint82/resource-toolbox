@@ -2,18 +2,33 @@
 
 ## Table of Contents
 
+
+- [Ideas Management](#ideas-management)
 - [Data Engineering](#data-engineering)
     - [Search Engine Tech](#search-engine-tech)
 - [Software Engineering](#software-engineering)
-    - [Software Tools](#software-tools)
+- [Test Automation](#test-automation)
 - [Workflow Engineering](#workflow-engineering)
 - [Blogs and Presentations]
     - [TechNickel.Net](#blogs)
 
+## Ideas Management
+
+* [XMind](https://www.xmind.net/) - MindMaps
+
 ## Data Engineering
 
 * [Apache Nifi](https://apache.nifi.org) - Apache NiFi
-* [Search Engine Tech](https://opendistro.github.io/for-elasticsearch) - Apache NiFi
+* [Search Engine Tech](https://opendistro.github.io/for-elasticsearch) - Elastic Open Distro
+
+## Software Engineering
+
+* [Test]() - Test
+
+## Test Automation
+
+* [JMeter](https://projects.apache.org/project.html?jmeter) - JMeter
+* [Postmane](https://www.postman.com/) - Postman
 
 ## Workflow Engineering
 
