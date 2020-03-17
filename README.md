@@ -5,8 +5,8 @@
 - [Data Engineering](#data-engineering)
 - [Software Engineering](#software-engineering)
     - [Software Tools](#software-tools)
-- [Greiner)
-    - [Blogs](#blogs)
+- [Greiner]
+    - [TechNickel.Net](#blogs)
 
 ## Data Engineering
 
