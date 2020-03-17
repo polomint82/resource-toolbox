@@ -25,6 +25,7 @@
 
 * [Apache Nifi](https://apache.nifi.org) - Apache NiFi
 * [Search Engine Tech](https://opendistro.github.io/for-elasticsearch) - Elastic Open Distro
+* [Pilosa](https://www.pilosa.com) - Bitmap Database
 
 ## Software Engineering
 
