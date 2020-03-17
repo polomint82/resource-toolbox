@@ -32,6 +32,7 @@
 
 ## User Interface Templates
 
+* [Angular SyncFusion Framework](https://ej2.syncfusion.com/angular) - SyncFusion
 * [Angular Fuse Template](http://angular-material.fusetheme.com/apps/dashboards/analytics) - Fuse
 
 ## Test Automation
