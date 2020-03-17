@@ -3,15 +3,17 @@
 ## Table of Contents
 
 - [Data Engineering](#data-engineering)
+    - [Search Engine Tech](#search-engine-tech)
 - [Software Engineering](#software-engineering)
     - [Software Tools](#software-tools)
 - [Workflow Engineering](#workflow-engineering)
-- [Greiner]
+- [Blogs and Presentations]
     - [TechNickel.Net](#blogs)
 
 ## Data Engineering
 
 * [Apache Nifi](https://apache.nifi.org) - Apache NiFi
+* [Search Engine Tech](https://opendistro.github.io/for-elasticsearch) - Apache NiFi
 
 ## Workflow Engineering
 
