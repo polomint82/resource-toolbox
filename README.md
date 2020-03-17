@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-
+- [Enterprise Architecture](#enterprise-architecture)
 - [Ideas Management](#ideas-management)
 - [Data Engineering](#data-engineering)
     - [Search Engine Tech](#search-engine-tech)
@@ -11,6 +11,10 @@
 - [Workflow Engineering](#workflow-engineering)
 - [Blogs and Presentations]
     - [TechNickel.Net](#blogs)
+
+## Enterprise Architecture
+
+* [Mulesoft](https://www.mulesoft.com/) - Mulesoft
 
 ## Ideas Management
 
@@ -28,7 +32,7 @@
 ## Test Automation
 
 * [JMeter](https://projects.apache.org/project.html?jmeter) - JMeter
-* [Postmane](https://www.postman.com/) - Postman
+* [Postman](https://www.postman.com/) - Postman
 
 ## Workflow Engineering
 
