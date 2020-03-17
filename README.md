@@ -5,12 +5,17 @@
 - [Data Engineering](#data-engineering)
 - [Software Engineering](#software-engineering)
     - [Software Tools](#software-tools)
+- [Workflow Engineering](#workflow-engineering)
 - [Greiner]
     - [TechNickel.Net](#blogs)
 
 ## Data Engineering
 
 * [Apache Nifi](https://apache.nifi.org) - Apache NiFi
+
+## Workflow Engineering
+
+* [Microsoft Power Automate](https://us.flow.microsoft.com/en-us) - Apache NiFi
 
 ## Blogs and Presentations
 
