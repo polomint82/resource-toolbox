@@ -9,6 +9,7 @@
 - [Software Engineering](#software-engineering)
 - [User Interface](#user-interface)
 - [Test Automation](#test-automation)
+- [DevOps](#dev-ops)
 - [Workflow Engineering](#workflow-engineering)
 - [Blogs and Presentations]
     - [TechNickel.Net](#blogs)
@@ -40,6 +41,10 @@
 
 * [JMeter](https://projects.apache.org/project.html?jmeter) - JMeter
 * [Postman](https://www.postman.com/) - Postman
+
+## DevOps
+
+* [Spinnaker](https://www.spinnaker.io) - Spinnaker (Netflix)
 
 ## Workflow Engineering
 
