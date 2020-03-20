@@ -28,6 +28,8 @@
 * [Search Engine Tech](https://opendistro.github.io/for-elasticsearch) - Elastic Open Distro
 * [Pilosa](https://www.pilosa.com) - Bitmap Database
 
+* [PacketBeat](https://www.elastic.co/beats/packetbeat) - PacketBeat
+
 ## Software Engineering
 
 * [SonarQube](https://www.sonarqube.org) - SonarQube
