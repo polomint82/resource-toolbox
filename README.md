@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Enterprise Architecture](#enterprise-architecture)
+    - [REST](#rest)
 - [Ideas Management](#ideas-management)
 - [Data Engineering](#data-engineering)
     - [Search Engine Tech](#search-engine-tech)
@@ -16,6 +17,7 @@
 
 ## Enterprise Architecture
 
+* [REST](https://restfulapi.net) - REST
 * [Mulesoft](https://www.mulesoft.com/) - Mulesoft
 
 ## Ideas Management
